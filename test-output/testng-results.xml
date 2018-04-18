@@ -1,0 +1,348 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="7" ignored="0" total="7" passed="0">
+  <reporter-output>
+    <line>
+      <![CDATA[<div "result">I navigate to ATM page (UNDEFINED)</div>]]>
+    </line>
+    <line>
+      <![CDATA[<div "result">I should be able to see &#x27;Select your language&#x27; text on the page (UNDEFINED)</div>]]>
+    </line>
+    <line>
+      <![CDATA[<div "result">I should be able to click on &#x27;English&#x27; button and see &#x27;Please enter PIN&#x27; text (UNDEFINED)</div>]]>
+    </line>
+    <line>
+      <![CDATA[<div "result">I should be able to click &#x27;Cancel&#x27; button and see &#x27;Select your language&#x27; text (UNDEFINED)</div>]]>
+    </line>
+    <line>
+      <![CDATA[<div "result">I should be able to click &#x27;Spanish&quot; button and see &#x27;In Spanish&#x27; (UNDEFINED)</div>]]>
+    </line>
+    <line>
+      <![CDATA[<div "result">I should be able to click &#x27;Cancel&#x27; button and see &#x27;Select your language&#x27; text (UNDEFINED)</div>]]>
+    </line>
+    <line>
+      <![CDATA[<div "result">I navigate to ATM page (UNDEFINED)</div>]]>
+    </line>
+    <line>
+      <![CDATA[<div "result">I should be able to see &#x27;Select your language&#x27; text on the page (UNDEFINED)</div>]]>
+    </line>
+    <line>
+      <![CDATA[<div "result">I should be able to click on &#x27;English&#x27; button and see &#x27;Please enter PIN&#x27; text (UNDEFINED)</div>]]>
+    </line>
+    <line>
+      <![CDATA[<div "result">I should be able to enter invalid PIN, click &#x27;Enter&#x27; and see &#x27;PIN incorrect, enter valid PIN&#x27; text (UNDEFINED)</div>]]>
+    </line>
+    <line>
+      <![CDATA[<div "result">I navigate to ATM page (UNDEFINED)</div>]]>
+    </line>
+    <line>
+      <![CDATA[<div "result">I should be able to see &#x27;Select your language&#x27; text on the page (UNDEFINED)</div>]]>
+    </line>
+    <line>
+      <![CDATA[<div "result">I should be able to click on &#x27;English&#x27; button and see &#x27;Please enter PIN&#x27; text (UNDEFINED)</div>]]>
+    </line>
+    <line>
+      <![CDATA[<div "result">I should be able to enter &quot;3343437&quot; three times and see &#x27;Account is blocked&#x27; text (UNDEFINED)</div>]]>
+    </line>
+    <line>
+      <![CDATA[<div "result">I navigate to ATM page (UNDEFINED)</div>]]>
+    </line>
+    <line>
+      <![CDATA[<div "result">I should be able to see &#x27;Select your language&#x27; text on the page (UNDEFINED)</div>]]>
+    </line>
+    <line>
+      <![CDATA[<div "result">I should be able to click on &#x27;English&#x27; button and see &#x27;Please enter PIN&#x27; text (UNDEFINED)</div>]]>
+    </line>
+    <line>
+      <![CDATA[<div "result">I should be able to enter &quot;5656565&quot; three times and see &#x27;Account is blocked&#x27; text (UNDEFINED)</div>]]>
+    </line>
+    <line>
+      <![CDATA[<div "result">I navigate to ATM page (UNDEFINED)</div>]]>
+    </line>
+    <line>
+      <![CDATA[<div "result">I should be able to see &#x27;Select your language&#x27; text on the page (UNDEFINED)</div>]]>
+    </line>
+    <line>
+      <![CDATA[<div "result">I should be able to click on &#x27;English&#x27; button and see &#x27;Please enter PIN&#x27; text (UNDEFINED)</div>]]>
+    </line>
+    <line>
+      <![CDATA[<div "result">I should be able to enter &quot;5454468&quot; three times and see &#x27;Account is blocked&#x27; text (UNDEFINED)</div>]]>
+    </line>
+    <line>
+      <![CDATA[<div "result">I navigate to ATM page (UNDEFINED)</div>]]>
+    </line>
+    <line>
+      <![CDATA[<div "result">I should be able to see &#x27;Select your language&#x27; text on the page (UNDEFINED)</div>]]>
+    </line>
+    <line>
+      <![CDATA[<div "result">I should be able to click on &#x27;English&#x27; button and see &#x27;Please enter PIN&#x27; text (UNDEFINED)</div>]]>
+    </line>
+    <line>
+      <![CDATA[<div "result">I should be able to enter valid PIN, click &#x27;Enter&#x27; and see &#x27;Select Transaction&#x27; text (UNDEFINED)</div>]]>
+    </line>
+    <line>
+      <![CDATA[<div "result">I navigate to ATM page (UNDEFINED)</div>]]>
+    </line>
+    <line>
+      <![CDATA[<div "result">I should be able to see &#x27;Select your language&#x27; text on the page (UNDEFINED)</div>]]>
+    </line>
+    <line>
+      <![CDATA[<div "result">I should be able to click on &#x27;English&#x27; button and see &#x27;Please enter PIN&#x27; text (UNDEFINED)</div>]]>
+    </line>
+    <line>
+      <![CDATA[<div "result">I should be able to enter valid PIN, click &quot;Enter&quot; and see &#x27;Select Transaction&#x27; text (UNDEFINED)</div>]]>
+    </line>
+    <line>
+      <![CDATA[<div "result">I should be able to click &#x27;Withdrawal&#x27; button and see &#x27;Select account to withdraw&#x27; (UNDEFINED)</div>]]>
+    </line>
+    <line>
+      <![CDATA[<div "result">I should be able to click &#x27;Checking&#x27; button and see &#x27;Please Enter amount&#x27; text (UNDEFINED)</div>]]>
+    </line>
+    <line>
+      <![CDATA[<div "result">I should be able to input amount and click &#x27;Enter&#x27; (UNDEFINED)</div>]]>
+    </line>
+    <line>
+      <![CDATA[<div "result">I should see &#x27;Please take your money&#x27; text (UNDEFINED)</div>]]>
+    </line>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="6325" started-at="2018-04-18T02:07:58Z" finished-at="2018-04-18T02:08:04Z">
+    <groups>
+      <group name="cucumber">
+        <method signature="AbstractTestNGCucumberTests.runScenario(cucumber.api.testng.PickleEventWrapper, cucumber.api.testng.CucumberFeatureWrapper)[pri:0, instance:runnerPackage.ATM_runner@3fee9989]" name="runScenario" class="cucumber.api.testng.AbstractTestNGCucumberTests"/>
+      </group> <!-- cucumber -->
+    </groups>
+    <test name="Default test" duration-ms="6325" started-at="2018-04-18T02:07:58Z" finished-at="2018-04-18T02:08:04Z">
+      <class name="runnerPackage.ATM_runner">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:runnerPackage.ATM_runner@3fee9989]" name="setUp" is-config="true" duration-ms="4958" started-at="2018-04-18T02:07:58Z" finished-at="2018-04-18T02:08:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="setUpClass()[pri:0, instance:runnerPackage.ATM_runner@3fee9989]" name="setUpClass" is-config="true" duration-ms="239" started-at="2018-04-18T02:08:03Z" finished-at="2018-04-18T02:08:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpClass -->
+        <test-method status="FAIL" signature="runScenario(cucumber.api.testng.PickleEventWrapper, cucumber.api.testng.CucumberFeatureWrapper)[pri:0, instance:runnerPackage.ATM_runner@3fee9989]" name="runScenario" duration-ms="31" started-at="2018-04-18T02:08:03Z" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2018-04-18T02:08:03Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["As an Admin user for ATM, I should be able to Select Language from the list"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["This is a feature for ATM_Project"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[<div "result">I navigate to ATM page (UNDEFINED)</div>]]>
+            </line>
+            <line>
+              <![CDATA[<div "result">I should be able to see &#x27;Select your language&#x27; text on the page (UNDEFINED)</div>]]>
+            </line>
+            <line>
+              <![CDATA[<div "result">I should be able to click on &#x27;English&#x27; button and see &#x27;Please enter PIN&#x27; text (UNDEFINED)</div>]]>
+            </line>
+            <line>
+              <![CDATA[<div "result">I should be able to click &#x27;Cancel&#x27; button and see &#x27;Select your language&#x27; text (UNDEFINED)</div>]]>
+            </line>
+            <line>
+              <![CDATA[<div "result">I should be able to click &#x27;Spanish&quot; button and see &#x27;In Spanish&#x27; (UNDEFINED)</div>]]>
+            </line>
+            <line>
+              <![CDATA[<div "result">I should be able to click &#x27;Cancel&#x27; button and see &#x27;Select your language&#x27; text (UNDEFINED)</div>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method status="FAIL" signature="runScenario(cucumber.api.testng.PickleEventWrapper, cucumber.api.testng.CucumberFeatureWrapper)[pri:0, instance:runnerPackage.ATM_runner@3fee9989]" name="runScenario" duration-ms="15" started-at="2018-04-18T02:08:03Z" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2018-04-18T02:08:03Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["As an Admin user for ATM, I should be able to Select Language from the list"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["This is a feature for ATM_Project"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[<div "result">I navigate to ATM page (UNDEFINED)</div>]]>
+            </line>
+            <line>
+              <![CDATA[<div "result">I should be able to see &#x27;Select your language&#x27; text on the page (UNDEFINED)</div>]]>
+            </line>
+            <line>
+              <![CDATA[<div "result">I should be able to click on &#x27;English&#x27; button and see &#x27;Please enter PIN&#x27; text (UNDEFINED)</div>]]>
+            </line>
+            <line>
+              <![CDATA[<div "result">I should be able to enter invalid PIN, click &#x27;Enter&#x27; and see &#x27;PIN incorrect, enter valid PIN&#x27; text (UNDEFINED)</div>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method status="FAIL" signature="runScenario(cucumber.api.testng.PickleEventWrapper, cucumber.api.testng.CucumberFeatureWrapper)[pri:0, instance:runnerPackage.ATM_runner@3fee9989]" name="runScenario" duration-ms="16" started-at="2018-04-18T02:08:03Z" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2018-04-18T02:08:03Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["As an Admin user for ATM, I should be able to Select Language from the list"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["This is a feature for ATM_Project"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[<div "result">I navigate to ATM page (UNDEFINED)</div>]]>
+            </line>
+            <line>
+              <![CDATA[<div "result">I should be able to see &#x27;Select your language&#x27; text on the page (UNDEFINED)</div>]]>
+            </line>
+            <line>
+              <![CDATA[<div "result">I should be able to click on &#x27;English&#x27; button and see &#x27;Please enter PIN&#x27; text (UNDEFINED)</div>]]>
+            </line>
+            <line>
+              <![CDATA[<div "result">I should be able to enter &quot;3343437&quot; three times and see &#x27;Account is blocked&#x27; text (UNDEFINED)</div>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method status="FAIL" signature="runScenario(cucumber.api.testng.PickleEventWrapper, cucumber.api.testng.CucumberFeatureWrapper)[pri:0, instance:runnerPackage.ATM_runner@3fee9989]" name="runScenario" duration-ms="0" started-at="2018-04-18T02:08:03Z" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2018-04-18T02:08:03Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["As an Admin user for ATM, I should be able to Select Language from the list"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["This is a feature for ATM_Project"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[<div "result">I navigate to ATM page (UNDEFINED)</div>]]>
+            </line>
+            <line>
+              <![CDATA[<div "result">I should be able to see &#x27;Select your language&#x27; text on the page (UNDEFINED)</div>]]>
+            </line>
+            <line>
+              <![CDATA[<div "result">I should be able to click on &#x27;English&#x27; button and see &#x27;Please enter PIN&#x27; text (UNDEFINED)</div>]]>
+            </line>
+            <line>
+              <![CDATA[<div "result">I should be able to enter &quot;5656565&quot; three times and see &#x27;Account is blocked&#x27; text (UNDEFINED)</div>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method status="FAIL" signature="runScenario(cucumber.api.testng.PickleEventWrapper, cucumber.api.testng.CucumberFeatureWrapper)[pri:0, instance:runnerPackage.ATM_runner@3fee9989]" name="runScenario" duration-ms="0" started-at="2018-04-18T02:08:03Z" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2018-04-18T02:08:03Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["As an Admin user for ATM, I should be able to Select Language from the list"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["This is a feature for ATM_Project"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[<div "result">I navigate to ATM page (UNDEFINED)</div>]]>
+            </line>
+            <line>
+              <![CDATA[<div "result">I should be able to see &#x27;Select your language&#x27; text on the page (UNDEFINED)</div>]]>
+            </line>
+            <line>
+              <![CDATA[<div "result">I should be able to click on &#x27;English&#x27; button and see &#x27;Please enter PIN&#x27; text (UNDEFINED)</div>]]>
+            </line>
+            <line>
+              <![CDATA[<div "result">I should be able to enter &quot;5454468&quot; three times and see &#x27;Account is blocked&#x27; text (UNDEFINED)</div>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method status="FAIL" signature="runScenario(cucumber.api.testng.PickleEventWrapper, cucumber.api.testng.CucumberFeatureWrapper)[pri:0, instance:runnerPackage.ATM_runner@3fee9989]" name="runScenario" duration-ms="47" started-at="2018-04-18T02:08:03Z" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2018-04-18T02:08:04Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["As an Admin user for ATM, I should be able to Select Language from the list"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["This is a feature for ATM_Project"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[<div "result">I navigate to ATM page (UNDEFINED)</div>]]>
+            </line>
+            <line>
+              <![CDATA[<div "result">I should be able to see &#x27;Select your language&#x27; text on the page (UNDEFINED)</div>]]>
+            </line>
+            <line>
+              <![CDATA[<div "result">I should be able to click on &#x27;English&#x27; button and see &#x27;Please enter PIN&#x27; text (UNDEFINED)</div>]]>
+            </line>
+            <line>
+              <![CDATA[<div "result">I should be able to enter valid PIN, click &#x27;Enter&#x27; and see &#x27;Select Transaction&#x27; text (UNDEFINED)</div>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method status="FAIL" signature="runScenario(cucumber.api.testng.PickleEventWrapper, cucumber.api.testng.CucumberFeatureWrapper)[pri:0, instance:runnerPackage.ATM_runner@3fee9989]" name="runScenario" duration-ms="16" started-at="2018-04-18T02:08:04Z" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2018-04-18T02:08:04Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["As an Admin user for ATM, I should be able to Select Language from the list"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["This is a feature for ATM_Project"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[<div "result">I navigate to ATM page (UNDEFINED)</div>]]>
+            </line>
+            <line>
+              <![CDATA[<div "result">I should be able to see &#x27;Select your language&#x27; text on the page (UNDEFINED)</div>]]>
+            </line>
+            <line>
+              <![CDATA[<div "result">I should be able to click on &#x27;English&#x27; button and see &#x27;Please enter PIN&#x27; text (UNDEFINED)</div>]]>
+            </line>
+            <line>
+              <![CDATA[<div "result">I should be able to enter valid PIN, click &quot;Enter&quot; and see &#x27;Select Transaction&#x27; text (UNDEFINED)</div>]]>
+            </line>
+            <line>
+              <![CDATA[<div "result">I should be able to click &#x27;Withdrawal&#x27; button and see &#x27;Select account to withdraw&#x27; (UNDEFINED)</div>]]>
+            </line>
+            <line>
+              <![CDATA[<div "result">I should be able to click &#x27;Checking&#x27; button and see &#x27;Please Enter amount&#x27; text (UNDEFINED)</div>]]>
+            </line>
+            <line>
+              <![CDATA[<div "result">I should be able to input amount and click &#x27;Enter&#x27; (UNDEFINED)</div>]]>
+            </line>
+            <line>
+              <![CDATA[<div "result">I should see &#x27;Please take your money&#x27; text (UNDEFINED)</div>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method status="PASS" signature="tearDownClass()[pri:0, instance:runnerPackage.ATM_runner@3fee9989]" name="tearDownClass" is-config="true" duration-ms="16" started-at="2018-04-18T02:08:04Z" finished-at="2018-04-18T02:08:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownClass -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:runnerPackage.ATM_runner@3fee9989]" name="tearDown" is-config="true" duration-ms="752" started-at="2018-04-18T02:08:04Z" finished-at="2018-04-18T02:08:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- runnerPackage.ATM_runner -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

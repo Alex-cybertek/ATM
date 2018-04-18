@@ -1,0 +1,190 @@
+<html>
+<head>
+<title>TestNG:  Default test</title>
+<link href="../testng.css" rel="stylesheet" type="text/css" />
+<link href="../my-testng.css" rel="stylesheet" type="text/css" />
+
+<style type="text/css">
+.log { display: none;} 
+.stack-trace { display: none;} 
+</style>
+<script type="text/javascript">
+<!--
+function flip(e) {
+  current = e.style.display;
+  if (current == 'block') {
+    e.style.display = 'none';
+    return 0;
+  }
+  else {
+    e.style.display = 'block';
+    return 1;
+  }
+}
+
+function toggleBox(szDivId, elem, msg1, msg2)
+{
+  var res = -1;  if (document.getElementById) {
+    res = flip(document.getElementById(szDivId));
+  }
+  else if (document.all) {
+    // this is the way old msie versions work
+    res = flip(document.all[szDivId]);
+  }
+  if(elem) {
+    if(res == 0) elem.innerHTML = msg1; else elem.innerHTML = msg2;
+  }
+
+}
+
+function toggleAllBoxes() {
+  if (document.getElementsByTagName) {
+    d = document.getElementsByTagName('div');
+    for (i = 0; i < d.length; i++) {
+      if (d[i].className == 'log') {
+        flip(d[i]);
+      }
+    }
+  }
+}
+
+// -->
+</script>
+
+</head>
+<body>
+<h2 align='center'>Default test</h2><table border='1' align="center">
+<tr>
+<td>Tests passed/Failed/Skipped:</td><td>0/7/0</td>
+</tr><tr>
+<td>Started on:</td><td>Tue Apr 17 22:07:58 EDT 2018</td>
+</tr>
+<tr><td>Total time:</td><td>6 seconds (6325 ms)</td>
+</tr><tr>
+<td>Included groups:</td><td></td>
+</tr><tr>
+<td>Excluded groups:</td><td></td>
+</tr>
+</table><p/>
+<small><i>(Hover the method name to see the test class name)</i></small><p/>
+<table width='100%' border='1' class='invocation-failed'>
+<tr><td colspan='4' align='center'><b>FAILED TESTS</b></td></tr>
+<tr><td><b>Test method</b></td>
+<td width="30%"><b>Exception</b></td>
+<td width="10%"><b>Time (seconds)</b></td>
+<td><b>Instance</b></td>
+</tr>
+<tr>
+<td title='runnerPackage.ATM_runner.runScenario()'><b>runScenario</b><br>Test class: runnerPackage.ATM_runner<br>Test method: Runs Cucumber Scenarios<br>Parameters: "As an Admin user for ATM, I should be able to Select Language from the list", "This is a feature for ATM_Project"<br/>
+<a href="#Output-1416665097" onClick='toggleBox("Output-1416665097", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-1416665097" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-1416665097">
+<div "result">I navigate to ATM page (UNDEFINED)</div><br/>
+<div "result">I should be able to see &#x27;Select your language&#x27; text on the page (UNDEFINED)</div><br/>
+<div "result">I should be able to click on &#x27;English&#x27; button and see &#x27;Please enter PIN&#x27; text (UNDEFINED)</div><br/>
+<div "result">I should be able to click &#x27;Cancel&#x27; button and see &#x27;Select your language&#x27; text (UNDEFINED)</div><br/>
+<div "result">I should be able to click &#x27;Spanish&quot; button and see &#x27;In Spanish&#x27; (UNDEFINED)</div><br/>
+<div "result">I should be able to click &#x27;Cancel&#x27; button and see &#x27;Select your language&#x27; text (UNDEFINED)</div><br/>
+</div>
+</td>
+<td></td>
+<td>0</td>
+<td>runnerPackage.ATM_runner@3fee9989</td></tr>
+<tr>
+<td title='runnerPackage.ATM_runner.runScenario()'><b>runScenario</b><br>Test class: runnerPackage.ATM_runner<br>Test method: Runs Cucumber Scenarios<br>Parameters: "As an Admin user for ATM, I should be able to Select Language from the list", "This is a feature for ATM_Project"<br/>
+<a href="#Output-1410367298" onClick='toggleBox("Output-1410367298", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-1410367298" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-1410367298">
+<div "result">I navigate to ATM page (UNDEFINED)</div><br/>
+<div "result">I should be able to see &#x27;Select your language&#x27; text on the page (UNDEFINED)</div><br/>
+<div "result">I should be able to click on &#x27;English&#x27; button and see &#x27;Please enter PIN&#x27; text (UNDEFINED)</div><br/>
+<div "result">I should be able to enter invalid PIN, click &#x27;Enter&#x27; and see &#x27;PIN incorrect, enter valid PIN&#x27; text (UNDEFINED)</div><br/>
+</div>
+</td>
+<td></td>
+<td>0</td>
+<td>runnerPackage.ATM_runner@3fee9989</td></tr>
+<tr>
+<td title='runnerPackage.ATM_runner.runScenario()'><b>runScenario</b><br>Test class: runnerPackage.ATM_runner<br>Test method: Runs Cucumber Scenarios<br>Parameters: "As an Admin user for ATM, I should be able to Select Language from the list", "This is a feature for ATM_Project"<br/>
+<a href="#Output-454160179" onClick='toggleBox("Output-454160179", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-454160179" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-454160179">
+<div "result">I navigate to ATM page (UNDEFINED)</div><br/>
+<div "result">I should be able to see &#x27;Select your language&#x27; text on the page (UNDEFINED)</div><br/>
+<div "result">I should be able to click on &#x27;English&#x27; button and see &#x27;Please enter PIN&#x27; text (UNDEFINED)</div><br/>
+<div "result">I should be able to enter &quot;3343437&quot; three times and see &#x27;Account is blocked&#x27; text (UNDEFINED)</div><br/>
+</div>
+</td>
+<td></td>
+<td>0</td>
+<td>runnerPackage.ATM_runner@3fee9989</td></tr>
+<tr>
+<td title='runnerPackage.ATM_runner.runScenario()'><b>runScenario</b><br>Test class: runnerPackage.ATM_runner<br>Test method: Runs Cucumber Scenarios<br>Parameters: "As an Admin user for ATM, I should be able to Select Language from the list", "This is a feature for ATM_Project"<br/>
+<a href="#Output-74885833" onClick='toggleBox("Output-74885833", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-74885833" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-74885833">
+<div "result">I navigate to ATM page (UNDEFINED)</div><br/>
+<div "result">I should be able to see &#x27;Select your language&#x27; text on the page (UNDEFINED)</div><br/>
+<div "result">I should be able to click on &#x27;English&#x27; button and see &#x27;Please enter PIN&#x27; text (UNDEFINED)</div><br/>
+<div "result">I should be able to enter &quot;5656565&quot; three times and see &#x27;Account is blocked&#x27; text (UNDEFINED)</div><br/>
+</div>
+</td>
+<td></td>
+<td>0</td>
+<td>runnerPackage.ATM_runner@3fee9989</td></tr>
+<tr>
+<td title='runnerPackage.ATM_runner.runScenario()'><b>runScenario</b><br>Test class: runnerPackage.ATM_runner<br>Test method: Runs Cucumber Scenarios<br>Parameters: "As an Admin user for ATM, I should be able to Select Language from the list", "This is a feature for ATM_Project"<br/>
+<a href="#Output-1827303532" onClick='toggleBox("Output-1827303532", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-1827303532" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-1827303532">
+<div "result">I navigate to ATM page (UNDEFINED)</div><br/>
+<div "result">I should be able to see &#x27;Select your language&#x27; text on the page (UNDEFINED)</div><br/>
+<div "result">I should be able to click on &#x27;English&#x27; button and see &#x27;Please enter PIN&#x27; text (UNDEFINED)</div><br/>
+<div "result">I should be able to enter &quot;5454468&quot; three times and see &#x27;Account is blocked&#x27; text (UNDEFINED)</div><br/>
+</div>
+</td>
+<td></td>
+<td>0</td>
+<td>runnerPackage.ATM_runner@3fee9989</td></tr>
+<tr>
+<td title='runnerPackage.ATM_runner.runScenario()'><b>runScenario</b><br>Test class: runnerPackage.ATM_runner<br>Test method: Runs Cucumber Scenarios<br>Parameters: "As an Admin user for ATM, I should be able to Select Language from the list", "This is a feature for ATM_Project"<br/>
+<a href="#Output-1004009692" onClick='toggleBox("Output-1004009692", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-1004009692" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-1004009692">
+<div "result">I navigate to ATM page (UNDEFINED)</div><br/>
+<div "result">I should be able to see &#x27;Select your language&#x27; text on the page (UNDEFINED)</div><br/>
+<div "result">I should be able to click on &#x27;English&#x27; button and see &#x27;Please enter PIN&#x27; text (UNDEFINED)</div><br/>
+<div "result">I should be able to enter valid PIN, click &#x27;Enter&#x27; and see &#x27;Select Transaction&#x27; text (UNDEFINED)</div><br/>
+</div>
+</td>
+<td></td>
+<td>0</td>
+<td>runnerPackage.ATM_runner@3fee9989</td></tr>
+<tr>
+<td title='runnerPackage.ATM_runner.runScenario()'><b>runScenario</b><br>Test class: runnerPackage.ATM_runner<br>Test method: Runs Cucumber Scenarios<br>Parameters: "As an Admin user for ATM, I should be able to Select Language from the list", "This is a feature for ATM_Project"<br/>
+<a href="#Output-791408866" onClick='toggleBox("Output-791408866", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-791408866" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-791408866">
+<div "result">I navigate to ATM page (UNDEFINED)</div><br/>
+<div "result">I should be able to see &#x27;Select your language&#x27; text on the page (UNDEFINED)</div><br/>
+<div "result">I should be able to click on &#x27;English&#x27; button and see &#x27;Please enter PIN&#x27; text (UNDEFINED)</div><br/>
+<div "result">I should be able to enter valid PIN, click &quot;Enter&quot; and see &#x27;Select Transaction&#x27; text (UNDEFINED)</div><br/>
+<div "result">I should be able to click &#x27;Withdrawal&#x27; button and see &#x27;Select account to withdraw&#x27; (UNDEFINED)</div><br/>
+<div "result">I should be able to click &#x27;Checking&#x27; button and see &#x27;Please Enter amount&#x27; text (UNDEFINED)</div><br/>
+<div "result">I should be able to input amount and click &#x27;Enter&#x27; (UNDEFINED)</div><br/>
+<div "result">I should see &#x27;Please take your money&#x27; text (UNDEFINED)</div><br/>
+</div>
+</td>
+<td></td>
+<td>0</td>
+<td>runnerPackage.ATM_runner@3fee9989</td></tr>
+</table><p>
+</body>
+</html>
